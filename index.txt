@@ -1,0 +1,5 @@
+1. I learnt about what version control system is
+2. I learnt the purpose of using version control system like git
+3. I learnt how to sign up for git and get started with it
+4. I learnt how the basic commands used in git and about git bash
+5. I practice the by using git command through an assignment
